@@ -6,6 +6,8 @@
 //  Copyright © 2016年 Takehana Yukinobu. All rights reserved.
 //
 
+//コメント！！！
+
 import UIKit
 
 class ViewController: UIViewController {
