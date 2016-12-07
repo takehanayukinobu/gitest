@@ -6,10 +6,8 @@
 //  Copyright © 2016年 Takehana Yukinobu. All rights reserved.
 //
 
-fghknbn
-
-
 //コメント！！！
+//コメント2！！！
 
 import UIKit
 
